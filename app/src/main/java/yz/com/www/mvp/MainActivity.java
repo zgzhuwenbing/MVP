@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void init() {
-        System.out.println("你好朱文兵");
+        System.out.println("你好世界");
     }
 }
